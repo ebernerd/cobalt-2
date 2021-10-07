@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/wZFbuS0.png)
 # Cobalt 2
-## [Documentation](https://eric99b.gitbook.io/cobalt2) | [Discord](https://discord.gg/dsnmJu) | [Releases](https://github.com/ebernerd/cobalt-2/releases)
+## [Documentation](https://eric99b.gitbook.io/cobalt2) | [Discord](https://discord.gg/ZdhMJJ5) | [Releases](https://github.com/ebernerd/cobalt-2/releases)
 Cobalt 2 is a callback wrapper for ComputerCraft, and is the successor to [Cobalt](https://github.com/ebernerd/cobalt).
 
 Cobalt 2 offers new features, improves (heavily) on existing functionality, and aims to remove bloat from Cobalt 1. I must admit when I developed the original Cobalt 3 years ago, I was rushed and was more focussed on the UI engine over the wrapper itself.
